@@ -4,7 +4,7 @@
 
 ## Demo
 
-This app is deployed on netlify. Try it [Pacman](https://whimsical-cobbler-7797c5.netlify.app/)
+This app is deployed on netlify. Try it [Pacman](https://neon-sherbet-7fbbc7.netlify.app/)
 
 ## Run Locally
 
